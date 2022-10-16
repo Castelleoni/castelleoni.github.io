@@ -1,18 +1,14 @@
-h1 {color: black; text-align: center; font-family: sans-serif;}
+h1 {color: black; text-align: center; font-family: Optima, sans-serif;}
 
 /* Criando um fundo degrade para a pagina */ 
-body{background-image: linear-gradient(teal, white ); text-align: center;}
+body{background-image: linear-gradient(teal, white ); text-align: center;
+font-style: Optima, sans-serif; }
 
 a {color: blue ; text-align: center;}
 
 /* Centralizando a imagem */
 img { margin: auto ; display: block;}
 
-p { font-family: sans-serif;}
-
-h3 {font-family: sans-serif;}
-
-ul {font-family: sans-serif;}
 
 
 
